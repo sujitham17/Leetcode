@@ -27,12 +27,14 @@ Consistent coding practice update through Leetcode
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sujitham17/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sujitham17/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujitham17/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sujitham17/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sujitham17/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sujitham17/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sujitham17/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sujitham17/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +95,8 @@ Consistent coding practice update through Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujitham17/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sujitham17/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 <!---LeetCode Topics End-->

@@ -118,6 +118,7 @@ Consistent coding practice update through Leetcode
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/sujitham17/Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/sujitham17/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |

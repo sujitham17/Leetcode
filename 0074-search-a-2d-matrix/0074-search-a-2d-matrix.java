@@ -12,7 +12,7 @@ class Solution {
                     e=mid-1;
                 }
                 else{
-                    e=mid+1;
+                    s=mid+1;
                 }
             }
         }

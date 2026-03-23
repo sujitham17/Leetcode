@@ -3,7 +3,7 @@ class Solution {
         Stack<Integer> s1 = new Stack<>();
         Stack<Integer> s2 = new Stack<>();
 
-        // Push values into stacks
+        // Fill stacks
         while (l1 != null) {
             s1.push(l1.val);
             l1 = l1.next;
@@ -17,7 +17,7 @@ class Solution {
         int carry = 0;
         ListNode head = null;
 
-        // Process stacks
+        // Process
         while (!s1.isEmpty() || !s2.isEmpty() || carry != 0) {
             int sum = carry;
 
@@ -25,7 +25,9 @@ class Solution {
             if (!s2.isEmpty()) sum += s2.pop();
 
             ListNode node = new ListNode(sum % 10);
-            node.next = head;   // insert at front
+
+            // insert at front
+            node.next = head;
             head = node;
 
             carry = sum / 10;

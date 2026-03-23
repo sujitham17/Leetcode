@@ -22,6 +22,7 @@ Consistent coding practice update through Leetcode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sujitham17/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sujitham17/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sujitham17/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sujitham17/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -33,6 +34,7 @@ Consistent coding practice update through Leetcode
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sujitham17/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sujitham17/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sujitham17/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sujitham17/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -72,6 +74,7 @@ Consistent coding practice update through Leetcode
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sujitham17/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sujitham17/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujitham17/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sujitham17/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |

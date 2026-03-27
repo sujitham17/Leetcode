@@ -19,6 +19,7 @@ Consistent coding practice update through Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sujitham17/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sujitham17/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@ Consistent coding practice update through Leetcode
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sujitham17/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sujitham17/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sujitham17/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sujitham17/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sujitham17/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sujitham17/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujitham17/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -39,6 +41,7 @@ Consistent coding practice update through Leetcode
 | [0240-search-a-2d-matrix-ii](https://github.com/sujitham17/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sujitham17/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sujitham17/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sujitham17/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sujitham17/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sujitham17/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sujitham17/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -102,6 +105,7 @@ Consistent coding practice update through Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0445-add-two-numbers-ii](https://github.com/sujitham17/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sujitham17/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujitham17/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |

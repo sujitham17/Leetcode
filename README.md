@@ -30,6 +30,7 @@ Consistent coding practice update through Leetcode
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sujitham17/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sujitham17/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sujitham17/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/sujitham17/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sujitham17/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sujitham17/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sujitham17/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -84,6 +85,7 @@ Consistent coding practice update through Leetcode
 | [0074-search-a-2d-matrix](https://github.com/sujitham17/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sujitham17/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sujitham17/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/sujitham17/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujitham17/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sujitham17/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Greedy
@@ -147,4 +149,8 @@ Consistent coding practice update through Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sujitham17/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/sujitham17/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 <!---LeetCode Topics End-->

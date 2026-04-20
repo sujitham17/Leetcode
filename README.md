@@ -12,6 +12,7 @@ Consistent coding practice update through Leetcode
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sujitham17/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sujitham17/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sujitham17/Leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2697-lexicographically-smallest-palindrome](https://github.com/sujitham17/Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ Consistent coding practice update through Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sujitham17/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2697-lexicographically-smallest-palindrome](https://github.com/sujitham17/Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujitham17/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sujitham17/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Union-Find
@@ -158,4 +160,5 @@ Consistent coding practice update through Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sujitham17/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2697-lexicographically-smallest-palindrome](https://github.com/sujitham17/Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 <!---LeetCode Topics End-->

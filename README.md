@@ -31,6 +31,7 @@ Consistent coding practice update through Leetcode
 | [0074-search-a-2d-matrix](https://github.com/sujitham17/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sujitham17/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sujitham17/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1345-jump-game-iv](https://github.com/sujitham17/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sujitham17/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sujitham17/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sujitham17/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -68,6 +69,7 @@ Consistent coding practice update through Leetcode
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1345-jump-game-iv](https://github.com/sujitham17/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/sujitham17/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -167,4 +169,8 @@ Consistent coding practice update through Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sujitham17/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1345-jump-game-iv](https://github.com/sujitham17/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 <!---LeetCode Topics End-->

@@ -66,6 +66,7 @@ Consistent coding practice update through Leetcode
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sujitham17/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sujitham17/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sujitham17/Leetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sujitham17/Leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@ Consistent coding practice update through Leetcode
 | [0445-add-two-numbers-ii](https://github.com/sujitham17/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sujitham17/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujitham17/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sujitham17/Leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3783-mirror-distance-of-an-integer](https://github.com/sujitham17/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |

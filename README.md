@@ -47,6 +47,7 @@ Consistent coding practice update through Leetcode
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sujitham17/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujitham17/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sujitham17/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/sujitham17/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@ Consistent coding practice update through Leetcode
 | [2697-lexicographically-smallest-palindrome](https://github.com/sujitham17/Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujitham17/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sujitham17/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3689-maximum-total-subarray-value-i](https://github.com/sujitham17/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |

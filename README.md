@@ -158,6 +158,7 @@ Consistent coding practice update through Leetcode
 | ------- | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/sujitham17/Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/sujitham17/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sujitham17/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +185,7 @@ Consistent coding practice update through Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sujitham17/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sujitham17/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sujitham17/Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 ## Trie
 | Problem Name | Difficulty |

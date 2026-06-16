@@ -16,6 +16,7 @@ Consistent coding practice update through Leetcode
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sujitham17/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sujitham17/Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sujitham17/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/sujitham17/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ Consistent coding practice update through Leetcode
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sujitham17/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sujitham17/Leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sujitham17/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/sujitham17/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |

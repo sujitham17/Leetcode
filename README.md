@@ -39,6 +39,7 @@ Consistent coding practice update through Leetcode
 | [1345-jump-game-iv](https://github.com/sujitham17/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sujitham17/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sujitham17/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/sujitham17/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sujitham17/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sujitham17/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sujitham17/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -92,6 +93,7 @@ Consistent coding practice update through Leetcode
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/sujitham17/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/sujitham17/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/sujitham17/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sujitham17/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |

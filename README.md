@@ -6,6 +6,7 @@ Consistent coding practice update through Leetcode
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/sujitham17/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sujitham17/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sujitham17/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sujitham17/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -83,6 +84,7 @@ Consistent coding practice update through Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sujitham17/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/sujitham17/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/sujitham17/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/sujitham17/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sujitham17/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -199,4 +201,8 @@ Consistent coding practice update through Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1345-jump-game-iv](https://github.com/sujitham17/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/sujitham17/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 <!---LeetCode Topics End-->

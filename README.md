@@ -74,6 +74,7 @@ Consistent coding practice update through Leetcode
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sujitham17/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sujitham17/Leetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sujitham17/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/sujitham17/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sujitham17/Leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@ Consistent coding practice update through Leetcode
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sujitham17/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sujitham17/Leetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sujitham17/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/sujitham17/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |

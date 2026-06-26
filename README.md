@@ -6,6 +6,7 @@ Consistent coding practice update through Leetcode
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sujitham17/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/sujitham17/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/sujitham17/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/sujitham17/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -194,6 +195,7 @@ Consistent coding practice update through Leetcode
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sujitham17/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/sujitham17/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/sujitham17/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sujitham17/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |

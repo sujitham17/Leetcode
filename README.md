@@ -55,6 +55,7 @@ Consistent coding practice update through Leetcode
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sujitham17/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sujitham17/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/sujitham17/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sujitham17/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sujitham17/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sujitham17/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sujitham17/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -70,6 +71,7 @@ Consistent coding practice update through Leetcode
 | [0240-search-a-2d-matrix-ii](https://github.com/sujitham17/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sujitham17/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sujitham17/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sujitham17/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sujitham17/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sujitham17/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sujitham17/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -130,6 +132,7 @@ Consistent coding practice update through Leetcode
 | [0240-search-a-2d-matrix-ii](https://github.com/sujitham17/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sujitham17/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sujitham17/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sujitham17/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujitham17/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sujitham17/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Greedy
@@ -143,6 +146,7 @@ Consistent coding practice update through Leetcode
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sujitham17/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sujitham17/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -164,6 +168,7 @@ Consistent coding practice update through Leetcode
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sujitham17/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujitham17/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -222,6 +227,7 @@ Consistent coding practice update through Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1345-jump-game-iv](https://github.com/sujitham17/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sujitham17/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
